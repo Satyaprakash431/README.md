@@ -9,8 +9,8 @@ Refer https://github.com/Anirudhrarao#-hi-im-aniruddh-rao
 
 ## 📊 GitHub Stats
 
-![Aniruddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhrarao&show_icons=true&theme=light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhrarao&layout=compact&theme=light)
+![Aniruddh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyaprakash&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyaprakash&layout=compact&theme=light)
 
 ## 🌐 Let's Connect
 
