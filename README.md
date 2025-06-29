@@ -19,9 +19,11 @@ I'm a dedicated NOC Operations Engineer and DevOps enthusiast, currently learnin
 
 ## 🌐 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniruddh%20Rao-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudhra-rao-aa013b240/)
-- [![Gmail](https://img.shields.io/badge/Email-raorudhra16%40gmail.com-red?style=flat&logo=gmail)](mailto:raorudhra16@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniruddh%20Rao-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyaprakash-431-l/)
+
+
+- [![Gmail](https://img.shields.io/badge/Email-raorudhra16%40gmail.com-red?style=flat&logo=gmail)](mailto:spr0431@gmail.com)
 
 ## ✨ Fun Fact
 
-_"The only way to do great work is to love what you do."_ - Steve Jobs
+_""Just do your job, don't look around, focus on work." - Satyaprakash
